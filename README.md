@@ -1,8 +1,8 @@
-# gapminder_world
+# Gapminder World Analysis
 
 For this project, I'm working on Gapminder World Datasets as a requirement for the Data Analytics Nanodegree program on Udacity. The dataset provides data for years ranging from 1800 to 2050 (predictions) in some indicator. In this project I will be working with data for 2008 and 2018 only, this giving us a 10 year gap for analysis.
 
-The indicators for analysis are:
+## Key indicators for analysis:
 
 Income Variables (independent) - Gross domestic product per person adjusted for differences in purchasing power (Measured in International Dollars)
 Life Expectancy - Measured in Years.
